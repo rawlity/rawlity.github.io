@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="330.08401"
+   viewBox="0 0 105.83333 87.334731"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="256"
+     inkscape:cx="0.67871326"
+     inkscape:cy="330.47638"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-209.66525)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Slant;-inkscape-font-specification:Slant;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="719.95868"
+       y="102.65783"
+       id="text1283"><tspan
+         sodipodi:role="line"
+         id="tspan1281"
+         x="719.95868"
+         y="112.20209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Slant;-inkscape-font-specification:Slant;stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Distortion Of The Brain And Mind';-inkscape-font-specification:'Distortion Of The Brain And Mind';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="811.53699"
+       y="117.17445"
+       id="text836"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="811.53699"
+         y="126.77998"
+         style="stroke-width:0.26458332" /></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19337873;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -1.4124135e-4,209.66488 c 0,0 2.35805994135,3.89816 5.19374804135,9.00062 4.9155152,8.84482 6.9468092,9.11194 13.5145382,9.11194 h 50.724768 l -1.68078,2.91032 -10.451322,18.11207 10.451322,18.11256 h 20.90364 0.002 l -10.45331,-18.11256 12.1326,-21.02239 10.451807,-18.11256 H 79.885233 Z M 17.363323,239.7527 39.947244,278.88765 c 10.127233,17.54896 26.453839,18.11207 32.202539,18.11207 h 33.683397 v -0.3226 L 95.567417,278.88765 H 70.229033 c -9.37717,0 -11.83001,-4.24853 -14.977616,-9.70321 L 38.267946,239.7527 Z"
+       id="rect902-62"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/repos/rawlity.github.io/images/logo.png"
+       inkscape:export-xdpi="129.82001"
+       inkscape:export-ydpi="129.82001" />
+  </g>
+</svg>
