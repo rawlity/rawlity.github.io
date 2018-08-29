@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="256"
-     inkscape:cx="0.67871326"
-     inkscape:cy="330.47638"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="14.402504"
+     inkscape:cy="136.00296"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,12 +82,16 @@
          y="126.77998"
          style="stroke-width:0.26458332" /></text>
     <path
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19337873;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -1.4124135e-4,209.66488 c 0,0 2.35805994135,3.89816 5.19374804135,9.00062 4.9155152,8.84482 6.9468092,9.11194 13.5145382,9.11194 h 50.724768 l -1.68078,2.91032 -10.451322,18.11207 10.451322,18.11256 h 20.90364 0.002 l -10.45331,-18.11256 12.1326,-21.02239 10.451807,-18.11256 H 79.885233 Z M 17.363323,239.7527 39.947244,278.88765 c 10.127233,17.54896 26.453839,18.11207 32.202539,18.11207 h 33.683397 v -0.3226 L 95.567417,278.88765 H 70.229033 c -9.37717,0 -11.83001,-4.24853 -14.977616,-9.70321 L 38.267946,239.7527 Z"
-       id="rect902-62"
+       style="opacity:1;vector-effect:none;fill:#3cba54;fill-opacity:1;stroke:none;stroke-width:0.50209606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -1.4340116e-4,209.66488 c 0,0 2.35808950116,3.89803 5.19377660116,9.00048 4.9155018,8.84479 6.9466418,9.11166 13.5143578,9.11166 h 50.725003 l -1.680741,2.9106 -10.451689,18.11214 10.451689,18.11212 h 20.903391 0.0015 L 78.203985,248.79976 90.336423,227.77702 100.78811,209.66488 H 79.884727 Z"
+       id="rect902-7"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/repos/rawlity.github.io/images/logo.png"
-       inkscape:export-xdpi="129.82001"
-       inkscape:export-ydpi="129.82001" />
+       sodipodi:nodetypes="cssccccccccccc" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#4885ed;fill-opacity:1;stroke:none;stroke-width:0.50209606;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 17.363192,239.75233 22.584126,39.13489 c 10.127206,17.54892 26.453535,18.11212 32.202213,18.11212 h 33.683649 v -0.32276 L 95.567275,278.88722 H 70.229106 c -9.377142,0 -11.829988,-4.24851 -14.97759,-9.70317 L 38.268021,239.75233 Z"
+       id="rect902-3-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscccsscc" />
   </g>
 </svg>
